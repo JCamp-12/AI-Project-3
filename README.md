@@ -1,7 +1,5 @@
 # AI-Project-3
 
-Certainly! Below is the complete README file in Markdown format.
-
 ---
 
 # CSV Analysis Tool
