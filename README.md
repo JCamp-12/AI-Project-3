@@ -110,5 +110,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-You can copy and paste this into your `README.md` file. Make sure to adjust the repository URL, example queries, and any other specific details as needed for your project.
